@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)](https://www.linkedin.com/in/roshanchatei/)
+<!-- [![MasterHead](https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif)](https://www.linkedin.com/in/roshanchatei/) -->
 <h1 align="center">Hi 👋, I'm Roshan Chatei</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
